@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ffrkk
+- 👀 Working Fullstack (Backend + Frontend)
+- 🌱 I’m currently learning: Go
+- 📫 Discord: frk#2099, Telegram: @hittingtags
