@@ -1,7 +1,7 @@
 Hi 👋
 I'm a full stack developer that specializes in writing efficient code.
 
-Languages I Know
+Languages I Know:
 
 C++ / C
 Java / Bytecode Manipulation
@@ -9,7 +9,7 @@ ASM(x86_64)
 GLSL
 Lua
 
-Build Systems
+Build Systems:
 Maven / Gradle
 CMake / Makefile
 Graphical APIs
@@ -17,7 +17,7 @@ OpenGL
 Vulkan
 LWJGL (Bindings for OpenGL/Vulkan/GLFW)
 
-Specilizations
+Specilizations:
 Network Programming / Cryptography
 Graphical Programming
 Multi-Threaded Environments
